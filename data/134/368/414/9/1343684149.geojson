@@ -52,7 +52,7 @@
         "wk:page":"Majdel_Balhis"
     },
     "wof:country":"LB",
-    "wof:geomhash":"c83ae94ffe84cd0dce3c789fba5bb01e",
+    "wof:geomhash":"a65cab93fb77ac9e855d945642adca0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.74610999999999,
     33.53861
 ],
-  "geometry": {"coordinates":[35.74610999999999,33.53861],"type":"Point"}
+  "geometry": {"coordinates":[35.74611,33.53861],"type":"Point"}
 }

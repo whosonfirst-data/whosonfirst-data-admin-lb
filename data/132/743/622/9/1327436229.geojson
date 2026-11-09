@@ -58,7 +58,7 @@
         "wk:page":"Hbaline"
     },
     "wof:country":"LB",
-    "wof:geomhash":"ec8b869757fd7d56be13d06a3ac5100e",
+    "wof:geomhash":"c9ff605bfb45bc597d0a0a645cf8d673",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.68555999999999,
     34.15944
 ],
-  "geometry": {"coordinates":[35.68555999999999,34.15944],"type":"Point"}
+  "geometry": {"coordinates":[35.68556,34.15944],"type":"Point"}
 }

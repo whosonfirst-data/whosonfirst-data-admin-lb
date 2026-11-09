@@ -56,7 +56,7 @@
         "wk:page":"Bazouriyeh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"e8e929e64bb60822dab12274e06da975",
+    "wof:geomhash":"5d8413d2a32221db18970c401f6a3e03",
     "wof:hierarchy":[
         {
             "country_id":85632533,
@@ -79,5 +79,5 @@
     35.27111,
     33.25360999999999
 ],
-  "geometry": {"coordinates":[35.27111,33.25360999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.27111,33.25361],"type":"Point"}
 }

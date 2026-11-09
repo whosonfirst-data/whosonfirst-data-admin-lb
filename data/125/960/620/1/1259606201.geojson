@@ -53,7 +53,7 @@
         "wk:page":"Aytat"
     },
     "wof:country":"LB",
-    "wof:geomhash":"1a73494cf2ba3d4087d6c32e86721e3f",
+    "wof:geomhash":"556e817a81cf24617774c13adc82ae16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     35.55694000000001,
     33.79056
 ],
-  "geometry": {"coordinates":[35.55694000000001,33.79056],"type":"Point"}
+  "geometry": {"coordinates":[35.55694,33.79056],"type":"Point"}
 }

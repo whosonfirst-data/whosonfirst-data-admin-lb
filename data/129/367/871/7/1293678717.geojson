@@ -50,7 +50,7 @@
         "wk:page":"Qnaywer"
     },
     "wof:country":"LB",
-    "wof:geomhash":"a2f9a2ec55f905751938b8ff1039f37a",
+    "wof:geomhash":"e59b3812d2799d27368dbbcbdf79a1f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     35.92610999999999,
     34.26583
 ],
-  "geometry": {"coordinates":[35.92610999999999,34.26583],"type":"Point"}
+  "geometry": {"coordinates":[35.92611,34.26583],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Kaftoun"
     },
     "wof:country":"LB",
-    "wof:geomhash":"fb165add1bebb3750f3e48a4f1cb5984",
+    "wof:geomhash":"db797737418a6e2a39e26ba861eef73e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.76694000000001,
     34.26611
 ],
-  "geometry": {"coordinates":[35.76694000000001,34.26611],"type":"Point"}
+  "geometry": {"coordinates":[35.76694,34.26611],"type":"Point"}
 }

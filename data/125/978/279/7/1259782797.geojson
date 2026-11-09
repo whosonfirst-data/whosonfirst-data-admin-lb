@@ -55,7 +55,7 @@
         "wk:page":"Dora%2C_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"b6f87e3d32c59dfb803c9c2555de327f",
+    "wof:geomhash":"8e2c7895a73c7644986edf9376418bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.55860999999999,
     33.89611
 ],
-  "geometry": {"coordinates":[35.55860999999999,33.89611],"type":"Point"}
+  "geometry": {"coordinates":[35.55861,33.89611],"type":"Point"}
 }

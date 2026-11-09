@@ -52,7 +52,7 @@
         "wk:page":"Zibqin"
     },
     "wof:country":"LB",
-    "wof:geomhash":"f0d2062443bf07155c946e9cfe7b5946",
+    "wof:geomhash":"d5e37e79b51e4eebaa967c74a8386019",
     "wof:hierarchy":[
         {
             "country_id":85632533,
@@ -75,5 +75,5 @@
     35.26694000000001,
     33.16556
 ],
-  "geometry": {"coordinates":[35.26694000000001,33.16556],"type":"Point"}
+  "geometry": {"coordinates":[35.26694,33.16556],"type":"Point"}
 }

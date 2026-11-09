@@ -54,7 +54,7 @@
         "wk:page":"Siddikine"
     },
     "wof:country":"LB",
-    "wof:geomhash":"463294a677aa0be927f71666f256c3f6",
+    "wof:geomhash":"c2e434d98a1cfbd5d00ca3c4bdf966d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.31055999999999,
     33.19056
 ],
-  "geometry": {"coordinates":[35.31055999999999,33.19056],"type":"Point"}
+  "geometry": {"coordinates":[35.31056,33.19056],"type":"Point"}
 }

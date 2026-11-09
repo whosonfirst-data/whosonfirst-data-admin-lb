@@ -48,7 +48,7 @@
         "wk:page":"Fatqa"
     },
     "wof:country":"LB",
-    "wof:geomhash":"8233e734b535ee5a22e262bce3b240d1",
+    "wof:geomhash":"eb07e8a325cd24332874f0dd245267b8",
     "wof:hierarchy":[
         {
             "country_id":85632533,
@@ -71,5 +71,5 @@
     35.66392000000001,
     34.03412
 ],
-  "geometry": {"coordinates":[35.66392000000001,34.03412],"type":"Point"}
+  "geometry": {"coordinates":[35.66392,34.03412],"type":"Point"}
 }

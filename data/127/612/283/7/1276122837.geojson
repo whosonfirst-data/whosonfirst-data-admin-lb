@@ -54,7 +54,7 @@
         "wk:page":"Ain_Ksour"
     },
     "wof:country":"LB",
-    "wof:geomhash":"c24ae25e870c3ecd6a31730376fa9e0a",
+    "wof:geomhash":"241020cee016f11b51170b315360df30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.53277999999999,
     33.74861
 ],
-  "geometry": {"coordinates":[35.53277999999999,33.74861],"type":"Point"}
+  "geometry": {"coordinates":[35.53278,33.74861],"type":"Point"}
 }

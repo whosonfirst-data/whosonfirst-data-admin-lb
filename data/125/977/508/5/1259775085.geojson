@@ -59,7 +59,7 @@
         "wk:page":"Tayibe_(Lebanon)"
     },
     "wof:country":"LB",
-    "wof:geomhash":"a574f8a06c3ace5267529b893d73f37c",
+    "wof:geomhash":"178dac6fe4115ee7af6bb9028bd3e105",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     35.52139000000001,
     33.27583
 ],
-  "geometry": {"coordinates":[35.52139000000001,33.27583],"type":"Point"}
+  "geometry": {"coordinates":[35.52139,33.27583],"type":"Point"}
 }

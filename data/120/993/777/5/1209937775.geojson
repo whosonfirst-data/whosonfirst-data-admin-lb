@@ -61,7 +61,7 @@
         "wk:page":"Aynata"
     },
     "wof:country":"LB",
-    "wof:geomhash":"2232eca0bee7b377c1c53d69b1c02e83",
+    "wof:geomhash":"ffccb4122342ccf80f2170de795063f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.44,
     33.12889000000001
 ],
-  "geometry": {"coordinates":[35.44,33.12889000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.44,33.12889],"type":"Point"}
 }

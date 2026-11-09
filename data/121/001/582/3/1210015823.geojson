@@ -70,7 +70,7 @@
         "wk:page":"Choueifat"
     },
     "wof:country":"LB",
-    "wof:geomhash":"eb58ef90f3232578edd5d255488f6ab4",
+    "wof:geomhash":"54ccb612cc70209be6f8ab6b5d023c61",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     35.51778,
     33.80860999999999
 ],
-  "geometry": {"coordinates":[35.51778,33.80860999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.51778,33.80861],"type":"Point"}
 }

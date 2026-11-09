@@ -54,7 +54,7 @@
         "wk:page":"Sarine,_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"ef7a94596c6f1d1a15e0bddce75ca67c",
+    "wof:geomhash":"0d33317c5e1a94237609c384e8cd87e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     36.07944000000001,
     33.88056
 ],
-  "geometry": {"coordinates":[36.07944000000001,33.88056],"type":"Point"}
+  "geometry": {"coordinates":[36.07944,33.88056],"type":"Point"}
 }

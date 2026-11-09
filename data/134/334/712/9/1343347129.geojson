@@ -54,7 +54,7 @@
         "wk:page":"Kefraya"
     },
     "wof:country":"LB",
-    "wof:geomhash":"896b95106c36c2176cf802e9a4639048",
+    "wof:geomhash":"75e1292b25c2f425fbef274e294e9c2e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.73667000000001,
     33.67099
 ],
-  "geometry": {"coordinates":[35.73667000000001,33.67099],"type":"Point"}
+  "geometry": {"coordinates":[35.73667,33.67099],"type":"Point"}
 }

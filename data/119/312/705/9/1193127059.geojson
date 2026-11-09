@@ -53,7 +53,7 @@
         "wk:page":"Fih,_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"8613b2f0803907afcb035445a7a3c1ce",
+    "wof:geomhash":"195dce8995a33f68cb0b762ad93a482d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     35.78827000000001,
     34.34839
 ],
-  "geometry": {"coordinates":[35.78827000000001,34.34839],"type":"Point"}
+  "geometry": {"coordinates":[35.78827,34.34839],"type":"Point"}
 }

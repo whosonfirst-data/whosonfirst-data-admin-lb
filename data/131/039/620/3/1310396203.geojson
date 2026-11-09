@@ -99,7 +99,7 @@
         "wk:page":"Riyaq"
     },
     "wof:country":"LB",
-    "wof:geomhash":"377d2170d45055dacb93d10434cca3f8",
+    "wof:geomhash":"66f8d55a9f0b213f87e9af8f8b49f051",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,5 +125,5 @@
     36.0,
     33.85
 ],
-  "geometry": {"coordinates":[36.0,33.85],"type":"Point"}
+  "geometry": {"coordinates":[36,33.85],"type":"Point"}
 }

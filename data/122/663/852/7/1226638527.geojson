@@ -120,7 +120,7 @@
         "wk:page":"Qana"
     },
     "wof:country":"LB",
-    "wof:geomhash":"6d325ef5102cefd0766ee394cdbc2f2d",
+    "wof:geomhash":"8276955c9b8795e5bf9e927e8a03656e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -146,5 +146,5 @@
     35.29944000000001,
     33.20889
 ],
-  "geometry": {"coordinates":[35.29944000000001,33.20889],"type":"Point"}
+  "geometry": {"coordinates":[35.29944,33.20889],"type":"Point"}
 }

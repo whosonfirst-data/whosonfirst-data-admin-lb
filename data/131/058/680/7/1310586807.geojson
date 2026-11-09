@@ -52,7 +52,7 @@
         "wk:page":"Mdoukha"
     },
     "wof:country":"LB",
-    "wof:geomhash":"7f8e0388b80f539d9936f1ae8c81597a",
+    "wof:geomhash":"941d5248f4503377ac66bdfbfada06cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.87694000000001,
     33.60639
 ],
-  "geometry": {"coordinates":[35.87694000000001,33.60639],"type":"Point"}
+  "geometry": {"coordinates":[35.87694,33.60639],"type":"Point"}
 }

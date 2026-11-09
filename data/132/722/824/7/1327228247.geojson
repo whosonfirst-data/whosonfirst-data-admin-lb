@@ -62,7 +62,7 @@
         "wk:page":"Burj_Qallawiyah"
     },
     "wof:country":"LB",
-    "wof:geomhash":"a05072fef72f3267f0f3c7d6e997f80b",
+    "wof:geomhash":"6541767be5e6a3d2dcaeaef16ab234b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     35.41974000000001,
     33.26075
 ],
-  "geometry": {"coordinates":[35.41974000000001,33.26075],"type":"Point"}
+  "geometry": {"coordinates":[35.41974,33.26075],"type":"Point"}
 }

@@ -56,7 +56,7 @@
         "wk:page":"Tayr_Debba"
     },
     "wof:country":"LB",
-    "wof:geomhash":"763295cc95ebed7af79cb10ada4ef98c",
+    "wof:geomhash":"cf79385e5022300441b353543fc1702a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     35.27861,
     33.27444000000001
 ],
-  "geometry": {"coordinates":[35.27861,33.27444000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.27861,33.27444],"type":"Point"}
 }

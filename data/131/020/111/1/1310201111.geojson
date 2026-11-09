@@ -57,7 +57,7 @@
         "wk:page":"Ijdeebrine"
     },
     "wof:country":"LB",
-    "wof:geomhash":"5983e6839997b1fc214475cbf6621b8e",
+    "wof:geomhash":"56326b5d2f44158f4ff475b043f05205",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.74444000000001,
     34.27194
 ],
-  "geometry": {"coordinates":[35.74444000000001,34.27194],"type":"Point"}
+  "geometry": {"coordinates":[35.74444,34.27194],"type":"Point"}
 }

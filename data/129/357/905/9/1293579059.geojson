@@ -62,7 +62,7 @@
         "wk:page":"Al-Qalamoun"
     },
     "wof:country":"LB",
-    "wof:geomhash":"676bbbd21aa39647b5be37bbf9ea364f",
+    "wof:geomhash":"59fcc454f0375749a9f7c7f21b11549a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     35.78639000000001,
     34.38722
 ],
-  "geometry": {"coordinates":[35.78639000000001,34.38722],"type":"Point"}
+  "geometry": {"coordinates":[35.78639,34.38722],"type":"Point"}
 }

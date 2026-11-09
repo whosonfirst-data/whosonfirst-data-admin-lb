@@ -63,7 +63,7 @@
         "wk:page":"Jwaya"
     },
     "wof:country":"LB",
-    "wof:geomhash":"391116ac6b2593a71dcc675c37c3ef29",
+    "wof:geomhash":"2b6e3aad278746c8838d98b1aabc294a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     35.33730999999999,
     33.23783
 ],
-  "geometry": {"coordinates":[35.33730999999999,33.23783],"type":"Point"}
+  "geometry": {"coordinates":[35.33731,33.23783],"type":"Point"}
 }

@@ -100,7 +100,7 @@
         "wk:page":"Jdeideh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"3a65c8e2466176eb050efe289893174e",
+    "wof:geomhash":"e714b30f6d7ba47d68c07829b5df253b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,5 +126,5 @@
     35.56639000000001,
     33.89056
 ],
-  "geometry": {"coordinates":[35.56639000000001,33.89056],"type":"Point"}
+  "geometry": {"coordinates":[35.56639,33.89056],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Blat,_Marjayoun"
     },
     "wof:country":"LB",
-    "wof:geomhash":"5bef6f3e50472948837020d46b3d4d91",
+    "wof:geomhash":"34893f47f8f681be7b85151dc2ee832a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.60055999999999,
     33.38611
 ],
-  "geometry": {"coordinates":[35.60055999999999,33.38611],"type":"Point"}
+  "geometry": {"coordinates":[35.60056,33.38611],"type":"Point"}
 }

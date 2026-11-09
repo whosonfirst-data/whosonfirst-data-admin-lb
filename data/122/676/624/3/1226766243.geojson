@@ -47,7 +47,7 @@
         "wk:page":"Kfar_Tebnit"
     },
     "wof:country":"LB",
-    "wof:geomhash":"643b80bfcca83f336c671c8fe923d2bf",
+    "wof:geomhash":"99aa356ac463fd846555dad3cec463df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     35.51345999999999,
     33.3533
 ],
-  "geometry": {"coordinates":[35.51345999999999,33.3533],"type":"Point"}
+  "geometry": {"coordinates":[35.51346,33.3533],"type":"Point"}
 }

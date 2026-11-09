@@ -55,7 +55,7 @@
         "wk:page":"Bsaba"
     },
     "wof:country":"LB",
-    "wof:geomhash":"05daee19b0890803b6b6e6dc10e8d5b7",
+    "wof:geomhash":"d6762099627bc1f0ac87b96723188fb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.55305999999999,
     33.60417
 ],
-  "geometry": {"coordinates":[35.55305999999999,33.60417],"type":"Point"}
+  "geometry": {"coordinates":[35.55306,33.60417],"type":"Point"}
 }

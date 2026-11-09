@@ -51,7 +51,7 @@
         "wk:page":"Brih"
     },
     "wof:country":"LB",
-    "wof:geomhash":"9dd1952197e3d3e24cfea89468b75b0a",
+    "wof:geomhash":"d714e8322464cc83bb728ea4489d61d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.65450999999999,
     34.09605999999999
 ],
-  "geometry": {"coordinates":[35.65450999999999,34.09605999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.65451,34.09606],"type":"Point"}
 }

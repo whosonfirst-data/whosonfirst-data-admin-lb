@@ -61,7 +61,7 @@
         "wk:page":"Kfarhata_Zgharta"
     },
     "wof:country":"LB",
-    "wof:geomhash":"3c74943ca801f90502db764b2fc5b190",
+    "wof:geomhash":"44fa362296a319009fa5112e96b5f5dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.89944000000001,
     34.38278
 ],
-  "geometry": {"coordinates":[35.89944000000001,34.38278],"type":"Point"}
+  "geometry": {"coordinates":[35.89944,34.38278],"type":"Point"}
 }

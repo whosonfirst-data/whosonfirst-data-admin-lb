@@ -60,7 +60,7 @@
         "wk:page":"Baissour"
     },
     "wof:country":"LB",
-    "wof:geomhash":"7061511de44eed56bc399370e9997d43",
+    "wof:geomhash":"9934a490252300cc1819f0934461deb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.56610999999999,
     33.76167
 ],
-  "geometry": {"coordinates":[35.56610999999999,33.76167],"type":"Point"}
+  "geometry": {"coordinates":[35.56611,33.76167],"type":"Point"}
 }

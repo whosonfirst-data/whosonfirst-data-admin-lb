@@ -62,7 +62,7 @@
         "wk:page":"Dik_El_Mehdi"
     },
     "wof:country":"LB",
-    "wof:geomhash":"e5d5492fe04a36fa355ca204167f6ede",
+    "wof:geomhash":"dbddf658192c272ce3672a3a40934f23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     35.62305999999999,
     33.9325
 ],
-  "geometry": {"coordinates":[35.62305999999999,33.9325],"type":"Point"}
+  "geometry": {"coordinates":[35.62306,33.9325],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Sawfar"
     },
     "wof:country":"LB",
-    "wof:geomhash":"5d814c8fca2706f5bc4d5d151d5406f2",
+    "wof:geomhash":"65873141fe1ca9ffec7d963ffaf73144",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.69889000000001,
     33.80222
 ],
-  "geometry": {"coordinates":[35.69889000000001,33.80222],"type":"Point"}
+  "geometry": {"coordinates":[35.69889,33.80222],"type":"Point"}
 }

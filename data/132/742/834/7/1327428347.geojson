@@ -51,7 +51,7 @@
         "wk:page":"Debbine"
     },
     "wof:country":"LB",
-    "wof:geomhash":"984e3ff5d3ac1b45f2e6c0a77f8c112b",
+    "wof:geomhash":"300766f2e050414bf5969e523b314054",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.59527999999999,
     33.37028
 ],
-  "geometry": {"coordinates":[35.59527999999999,33.37028],"type":"Point"}
+  "geometry": {"coordinates":[35.59528,33.37028],"type":"Point"}
 }

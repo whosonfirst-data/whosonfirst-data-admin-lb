@@ -61,7 +61,7 @@
         "wk:page":"Yahchouch"
     },
     "wof:country":"LB",
-    "wof:geomhash":"5999c48deea413cbce253b382dfb4698",
+    "wof:geomhash":"1718419dda5565c0b1fb975825c7da68",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.73735999999999,
     34.06691
 ],
-  "geometry": {"coordinates":[35.73735999999999,34.06691],"type":"Point"}
+  "geometry": {"coordinates":[35.73736,34.06691],"type":"Point"}
 }

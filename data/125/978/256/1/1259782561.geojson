@@ -64,7 +64,7 @@
         "wk:page":"Ain_Dara%2C_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"ad7fc5412b7b0d42e30cb96c03094879",
+    "wof:geomhash":"13346b9142801280219dfc05cdded16d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.72472,
     33.78055999999999
 ],
-  "geometry": {"coordinates":[35.72472,33.78055999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.72472,33.78056],"type":"Point"}
 }

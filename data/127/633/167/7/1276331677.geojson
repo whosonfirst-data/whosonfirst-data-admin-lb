@@ -56,7 +56,7 @@
         "wk:page":"Chihine"
     },
     "wof:country":"LB",
-    "wof:geomhash":"b4bbeb1f39227fc8d63bde543914454a",
+    "wof:geomhash":"40e0cfdac1f9bd22e243b03c2b70956e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     35.25728,
     33.12674000000001
 ],
-  "geometry": {"coordinates":[35.25728,33.12674000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.25728,33.12674],"type":"Point"}
 }

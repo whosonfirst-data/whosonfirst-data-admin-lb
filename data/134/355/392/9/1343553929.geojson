@@ -52,7 +52,7 @@
         "wk:page":"Ghessanieh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"f3a4619f599dd9e29cbf63e0c41e6532",
+    "wof:geomhash":"a3b3ef73ab994d31fc4b4e5f5b88c2ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.35827000000001,
     33.41949
 ],
-  "geometry": {"coordinates":[35.35827000000001,33.41949],"type":"Point"}
+  "geometry": {"coordinates":[35.35827,33.41949],"type":"Point"}
 }

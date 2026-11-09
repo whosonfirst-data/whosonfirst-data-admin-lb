@@ -55,7 +55,7 @@
         "wk:page":"Gharifeh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"c74facb0d87d2d437c12e878e43c9589",
+    "wof:geomhash":"12bc60fb63faf99784b1e7bc756ca75c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.55806,
     33.63639000000001
 ],
-  "geometry": {"coordinates":[35.55806,33.63639000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.55806,33.63639],"type":"Point"}
 }

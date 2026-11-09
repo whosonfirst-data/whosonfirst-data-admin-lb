@@ -51,7 +51,7 @@
         "wk:page":"El_Fo%C3%BB%C3%A2ra"
     },
     "wof:country":"LB",
-    "wof:geomhash":"375a0563179e65fa875f295bdf7874db",
+    "wof:geomhash":"379b565d513759340bd1cd7870d3028a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.64056,
     33.71194000000001
 ],
-  "geometry": {"coordinates":[35.64056,33.71194000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.64056,33.71194],"type":"Point"}
 }

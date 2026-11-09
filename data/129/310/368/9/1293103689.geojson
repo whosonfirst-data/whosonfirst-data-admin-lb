@@ -63,7 +63,7 @@
         "wk:page":"Dbayeh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"39c2728d24ea74a0c14c5ff8d84e7e4c",
+    "wof:geomhash":"9a71823cb5a4c7aa5ef661f1eb5339c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     35.59527999999999,
     33.945
 ],
-  "geometry": {"coordinates":[35.59527999999999,33.945],"type":"Point"}
+  "geometry": {"coordinates":[35.59528,33.945],"type":"Point"}
 }

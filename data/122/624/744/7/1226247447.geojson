@@ -54,7 +54,7 @@
         "wk:page":"Tartej"
     },
     "wof:country":"LB",
-    "wof:geomhash":"4cc94bf8b6dd92c9d2d87a8189960083",
+    "wof:geomhash":"8298e25c421375152682ea9597d78cf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.82389000000001,
     34.18278
 ],
-  "geometry": {"coordinates":[35.82389000000001,34.18278],"type":"Point"}
+  "geometry": {"coordinates":[35.82389,34.18278],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Ablah,_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"b689f2143addaf05d9d20537ff0eb488",
+    "wof:geomhash":"8d50cf7556f3c9039271848badd289fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.96805999999999,
     33.87083
 ],
-  "geometry": {"coordinates":[35.96805999999999,33.87083],"type":"Point"}
+  "geometry": {"coordinates":[35.96806,33.87083],"type":"Point"}
 }

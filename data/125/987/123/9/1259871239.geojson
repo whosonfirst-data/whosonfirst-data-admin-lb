@@ -60,7 +60,7 @@
         "wk:page":"Qaouzah"
     },
     "wof:country":"LB",
-    "wof:geomhash":"f15d5d65b6939f834d8ea2cf8b4c2c65",
+    "wof:geomhash":"07a84fbcfa7fb8fd652b96b49138a976",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.33833,
     33.12139000000001
 ],
-  "geometry": {"coordinates":[35.33833,33.12139000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.33833,33.12139],"type":"Point"}
 }

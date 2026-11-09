@@ -60,7 +60,7 @@
         "wk:page":"Afqa"
     },
     "wof:country":"LB",
-    "wof:geomhash":"f123d0e8f955ff368167555ab39aa8e0",
+    "wof:geomhash":"e2050a7f7860cee7b6d387de0b4926f8",
     "wof:hierarchy":[
         {
             "country_id":85632533,
@@ -83,5 +83,5 @@
     35.88610999999999,
     34.06917
 ],
-  "geometry": {"coordinates":[35.88610999999999,34.06917],"type":"Point"}
+  "geometry": {"coordinates":[35.88611,34.06917],"type":"Point"}
 }

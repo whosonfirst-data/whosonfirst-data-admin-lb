@@ -64,7 +64,7 @@
         "wk:page":"Kousba"
     },
     "wof:country":"LB",
-    "wof:geomhash":"684704293f08837c17b2f281e23ba90b",
+    "wof:geomhash":"ac9634d7fcc3601879597f0dfee8456a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.85055999999999,
     34.29972
 ],
-  "geometry": {"coordinates":[35.85055999999999,34.29972],"type":"Point"}
+  "geometry": {"coordinates":[35.85056,34.29972],"type":"Point"}
 }

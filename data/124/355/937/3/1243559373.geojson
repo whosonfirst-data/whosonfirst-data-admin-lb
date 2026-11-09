@@ -51,7 +51,7 @@
         "wk:page":"Hazmiyeh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"d2db227d0755b8ad89b2a1d9dde5cf42",
+    "wof:geomhash":"2faceefa6ebeb560d263691b319730ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.53589,
     33.85534000000001
 ],
-  "geometry": {"coordinates":[35.53589,33.85534000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.53589,33.85534],"type":"Point"}
 }

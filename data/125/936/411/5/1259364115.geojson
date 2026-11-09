@@ -57,7 +57,7 @@
         "wk:page":"Brital"
     },
     "wof:country":"LB",
-    "wof:geomhash":"403dc119dab412640b7ea4122f902e9b",
+    "wof:geomhash":"8e428c52a36eab7403f6a9ca7215217d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     36.14944000000001,
     33.93417
 ],
-  "geometry": {"coordinates":[36.14944000000001,33.93417],"type":"Point"}
+  "geometry": {"coordinates":[36.14944,33.93417],"type":"Point"}
 }

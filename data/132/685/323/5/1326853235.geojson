@@ -70,7 +70,7 @@
         "wk:page":"Chyah"
     },
     "wof:country":"LB",
-    "wof:geomhash":"15ab4025e81875c4f29d26d55423b31a",
+    "wof:geomhash":"203a49735d2554f3ffe847b78671c944",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     35.51860999999999,
     33.86444
 ],
-  "geometry": {"coordinates":[35.51860999999999,33.86444],"type":"Point"}
+  "geometry": {"coordinates":[35.51861,33.86444],"type":"Point"}
 }

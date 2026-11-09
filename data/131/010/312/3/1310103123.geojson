@@ -56,7 +56,7 @@
         "wk:page":"Maarakeh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"fc404824816fc38ddf7081799107bd28",
+    "wof:geomhash":"809fb2f3e78cfd62b1963d8f376ed475",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     35.30860999999999,
     33.27306
 ],
-  "geometry": {"coordinates":[35.30860999999999,33.27306],"type":"Point"}
+  "geometry": {"coordinates":[35.30861,33.27306],"type":"Point"}
 }

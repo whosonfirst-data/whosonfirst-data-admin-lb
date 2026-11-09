@@ -51,7 +51,7 @@
         "wk:page":"Falougha"
     },
     "wof:country":"LB",
-    "wof:geomhash":"aed3f8b2e199b336c0213d1bf8c9642c",
+    "wof:geomhash":"e5a7806820e002c4567c9d53410b0d2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.74082999999999,
     33.83778
 ],
-  "geometry": {"coordinates":[35.74082999999999,33.83778],"type":"Point"}
+  "geometry": {"coordinates":[35.74083,33.83778],"type":"Point"}
 }

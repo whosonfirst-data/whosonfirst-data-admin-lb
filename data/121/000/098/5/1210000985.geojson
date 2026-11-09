@@ -60,7 +60,7 @@
         "wk:page":"Darchmezzine"
     },
     "wof:country":"LB",
-    "wof:geomhash":"a8757e60008d13822713f7d4299dc654",
+    "wof:geomhash":"39caeebbb43068613d1854a4b199484f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.78404000000001,
     34.28602
 ],
-  "geometry": {"coordinates":[35.78404000000001,34.28602],"type":"Point"}
+  "geometry": {"coordinates":[35.78404,34.28602],"type":"Point"}
 }

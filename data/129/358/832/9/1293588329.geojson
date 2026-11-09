@@ -60,7 +60,7 @@
         "wk:page":"Mezher%2C_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"418d3daf588ce7b1a98ac88f29c48584",
+    "wof:geomhash":"2bcf0064f692f32a85bb899b25ea6b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     35.59139000000001,
     33.91111
 ],
-  "geometry": {"coordinates":[35.59139000000001,33.91111],"type":"Point"}
+  "geometry": {"coordinates":[35.59139,33.91111],"type":"Point"}
 }

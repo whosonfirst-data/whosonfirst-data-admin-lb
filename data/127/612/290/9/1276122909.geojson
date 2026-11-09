@@ -59,7 +59,7 @@
         "wk:page":"Bsous"
     },
     "wof:country":"LB",
-    "wof:geomhash":"a6d68d8e1d52ef8b64e730a73dc0633f",
+    "wof:geomhash":"93e35544ed587e0b9d0a7445b1fd57a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     35.57833,
     33.81610999999999
 ],
-  "geometry": {"coordinates":[35.57833,33.81610999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.57833,33.81611],"type":"Point"}
 }

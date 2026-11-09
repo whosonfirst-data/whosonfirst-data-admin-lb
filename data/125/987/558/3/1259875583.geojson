@@ -64,7 +64,7 @@
         "wk:page":"Hamat"
     },
     "wof:country":"LB",
-    "wof:geomhash":"c06f50b945ba40f7b92b7863cb97d30f",
+    "wof:geomhash":"cffd043d1dc21c0c443602be24e12a08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.69139000000001,
     34.28611
 ],
-  "geometry": {"coordinates":[35.69139000000001,34.28611],"type":"Point"}
+  "geometry": {"coordinates":[35.69139,34.28611],"type":"Point"}
 }

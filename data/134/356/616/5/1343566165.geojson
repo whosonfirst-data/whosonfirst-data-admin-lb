@@ -52,7 +52,7 @@
         "wk:page":"Yanouh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"238a07a17a17dec75a37b37405b51bce",
+    "wof:geomhash":"92dd30117bcb9452ec99f6e857063ffd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.88444000000001,
     34.09722
 ],
-  "geometry": {"coordinates":[35.88444000000001,34.09722],"type":"Point"}
+  "geometry": {"coordinates":[35.88444,34.09722],"type":"Point"}
 }

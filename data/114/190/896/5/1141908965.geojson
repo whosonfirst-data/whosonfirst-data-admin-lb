@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"LB",
     "wof:created":1499131004,
-    "wof:geomhash":"54d86c1f2724cde5a6703de750cdd7ce",
+    "wof:geomhash":"658332a553fd47df9f29f6d720e45319",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,5 +150,5 @@
     35.86805043731641,
     34.4219495400821
 ],
-  "geometry": {"coordinates":[35.86805043731641,34.4219495400821],"type":"Point"}
+  "geometry": {"coordinates":[35.86805,34.42195],"type":"Point"}
 }

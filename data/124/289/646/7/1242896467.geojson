@@ -78,7 +78,7 @@
         "wk:page":"Bzoummar"
     },
     "wof:country":"LB",
-    "wof:geomhash":"010c019cbcb98aa4d9dcdd182d3b4417",
+    "wof:geomhash":"4730d9d01eef39f96f9007b884dd0810",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,5 +104,5 @@
     35.68389000000001,
     33.98806
 ],
-  "geometry": {"coordinates":[35.68389000000001,33.98806],"type":"Point"}
+  "geometry": {"coordinates":[35.68389,33.98806],"type":"Point"}
 }

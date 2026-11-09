@@ -61,7 +61,7 @@
         "wk:page":"Basloukit"
     },
     "wof:country":"LB",
-    "wof:geomhash":"9f9c51fb69e2d45a379bef816bd0d17c",
+    "wof:geomhash":"d4ce35f49633f6657dfcaadbc70cd3aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.96722000000001,
     34.30778
 ],
-  "geometry": {"coordinates":[35.96722000000001,34.30778],"type":"Point"}
+  "geometry": {"coordinates":[35.96722,34.30778],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Ain_Traz"
     },
     "wof:country":"LB",
-    "wof:geomhash":"067b0838dd441247bdb2476e780f9658",
+    "wof:geomhash":"0eb89f0f77d445aceafffe58e39b64f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     35.58110999999999,
     33.73528
 ],
-  "geometry": {"coordinates":[35.58110999999999,33.73528],"type":"Point"}
+  "geometry": {"coordinates":[35.58111,33.73528],"type":"Point"}
 }

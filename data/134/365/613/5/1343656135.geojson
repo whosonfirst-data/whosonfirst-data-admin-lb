@@ -56,7 +56,7 @@
         "wk:page":"Jarjouh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"8de7a3c9c9e938d09e6ed77033b16630",
+    "wof:geomhash":"e3a844a8a98debbcc25ee6a72e67eabb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     35.51860999999999,
     33.44667
 ],
-  "geometry": {"coordinates":[35.51860999999999,33.44667],"type":"Point"}
+  "geometry": {"coordinates":[35.51861,33.44667],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "gn:id":271620
     },
     "wof:country":"LB",
-    "wof:geomhash":"22ecf614239e58ea83d8a4bdae06f11e",
+    "wof:geomhash":"a1601adcb97ad5719bb452c8b0b88575",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     35.55305999999999,
     33.53167
 ],
-  "geometry": {"coordinates":[35.55305999999999,33.53167],"type":"Point"}
+  "geometry": {"coordinates":[35.55306,33.53167],"type":"Point"}
 }

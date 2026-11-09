@@ -57,7 +57,7 @@
         "wk:page":"Hariss"
     },
     "wof:country":"LB",
-    "wof:geomhash":"6cf8ad850851b72ee9727eef3d09fa37",
+    "wof:geomhash":"405260c8cdd43d8d3fcffa4c10b13f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.37667000000001,
     33.17556
 ],
-  "geometry": {"coordinates":[35.37667000000001,33.17556],"type":"Point"}
+  "geometry": {"coordinates":[35.37667,33.17556],"type":"Point"}
 }

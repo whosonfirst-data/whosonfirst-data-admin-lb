@@ -55,7 +55,7 @@
         "wk:page":"Hjoula"
     },
     "wof:country":"LB",
-    "wof:geomhash":"d50e4b317b3ba7a9a5e03493764886af",
+    "wof:geomhash":"6ecded1547184ffb06ea8b2251bb78a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.74639000000001,
     34.1325
 ],
-  "geometry": {"coordinates":[35.74639000000001,34.1325],"type":"Point"}
+  "geometry": {"coordinates":[35.74639,34.1325],"type":"Point"}
 }

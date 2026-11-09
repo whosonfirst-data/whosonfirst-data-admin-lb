@@ -59,7 +59,7 @@
         "wk:page":"Shemlan"
     },
     "wof:country":"LB",
-    "wof:geomhash":"8709133eec3d12e4d6637b15e395bc83",
+    "wof:geomhash":"7018b825760e99868ca4cbc04726e07a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     35.54555999999999,
     33.78028
 ],
-  "geometry": {"coordinates":[35.54555999999999,33.78028],"type":"Point"}
+  "geometry": {"coordinates":[35.54556,33.78028],"type":"Point"}
 }

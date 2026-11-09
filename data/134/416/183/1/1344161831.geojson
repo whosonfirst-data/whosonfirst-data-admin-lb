@@ -52,7 +52,7 @@
         "wk:page":"Kfar_Nabrakh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"edb8558bbcb24a244f5a7f65472d6c34",
+    "wof:geomhash":"b5d1084fc90bd40b714409f9f30f2b8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.63194,
     33.69889000000001
 ],
-  "geometry": {"coordinates":[35.63194,33.69889000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.63194,33.69889],"type":"Point"}
 }

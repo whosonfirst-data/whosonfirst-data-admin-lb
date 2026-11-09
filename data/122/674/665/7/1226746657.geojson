@@ -48,7 +48,7 @@
         "wk:page":"Adma%2C_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"927b7d226b4b67539d57c4974dd56805",
+    "wof:geomhash":"915ad2a69f559cbcdd086fc2d39988cd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     35.64194000000001,
     34.02278
 ],
-  "geometry": {"coordinates":[35.64194000000001,34.02278],"type":"Point"}
+  "geometry": {"coordinates":[35.64194,34.02278],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Fidar"
     },
     "wof:country":"LB",
-    "wof:geomhash":"e94b9c39e3e09f0dc1b170a09eba0ffe",
+    "wof:geomhash":"10e6b908805324529072a8cab5e99940",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.72362000000001,
     34.13348
 ],
-  "geometry": {"coordinates":[35.72362000000001,34.13348],"type":"Point"}
+  "geometry": {"coordinates":[35.72362,34.13348],"type":"Point"}
 }

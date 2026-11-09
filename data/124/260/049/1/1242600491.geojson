@@ -70,7 +70,7 @@
         "wk:page":"Mayrouba"
     },
     "wof:country":"LB",
-    "wof:geomhash":"ae2f983d7872fd8930434bbcc8698906",
+    "wof:geomhash":"f30c1b8b2009827be7a52095dc517e48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     35.77307000000001,
     34.01442
 ],
-  "geometry": {"coordinates":[35.77307000000001,34.01442],"type":"Point"}
+  "geometry": {"coordinates":[35.77307,34.01442],"type":"Point"}
 }

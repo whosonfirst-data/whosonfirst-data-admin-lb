@@ -63,7 +63,7 @@
         "wk:page":"Jahlieh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"885eee30eb344da0ee6c716c45f29e7a",
+    "wof:geomhash":"a274771881b08684b672ee6d9fe7f323",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     35.51110999999999,
     33.66722
 ],
-  "geometry": {"coordinates":[35.51110999999999,33.66722],"type":"Point"}
+  "geometry": {"coordinates":[35.51111,33.66722],"type":"Point"}
 }

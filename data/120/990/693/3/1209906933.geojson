@@ -81,7 +81,7 @@
         "wk:page":"Qaraoun"
     },
     "wof:country":"LB",
-    "wof:geomhash":"8e8e334aecc1aa688f79733fbb70370d",
+    "wof:geomhash":"d85877faf1fc9d908533217fb8d9a21d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,5 +107,5 @@
     35.72194000000001,
     33.56278
 ],
-  "geometry": {"coordinates":[35.72194000000001,33.56278],"type":"Point"}
+  "geometry": {"coordinates":[35.72194,33.56278],"type":"Point"}
 }

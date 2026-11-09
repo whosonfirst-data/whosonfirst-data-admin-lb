@@ -52,7 +52,7 @@
         "wk:page":"Kelbata"
     },
     "wof:country":"LB",
-    "wof:geomhash":"012a0f427c528e947f678f830cc4abec",
+    "wof:geomhash":"c6ba48735a0aeb5060492c2feeee790d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.73278,
     34.28055999999999
 ],
-  "geometry": {"coordinates":[35.73278,34.28055999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.73278,34.28056],"type":"Point"}
 }

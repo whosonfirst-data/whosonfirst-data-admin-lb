@@ -55,7 +55,7 @@
         "wk:page":"Yohmor%2C_Beqaa"
     },
     "wof:country":"LB",
-    "wof:geomhash":"6224f03c6c222139a838e5a94a21e45f",
+    "wof:geomhash":"be05c9f9ee4246ad4bfb8a67017c0276",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.66889000000001,
     33.48528
 ],
-  "geometry": {"coordinates":[35.66889000000001,33.48528],"type":"Point"}
+  "geometry": {"coordinates":[35.66889,33.48528],"type":"Point"}
 }

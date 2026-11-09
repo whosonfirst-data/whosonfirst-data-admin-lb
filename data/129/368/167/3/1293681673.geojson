@@ -57,7 +57,7 @@
         "wk:page":"Aitit"
     },
     "wof:country":"LB",
-    "wof:geomhash":"6feb79eb2bbb93e5eab90a67200806c7",
+    "wof:geomhash":"6e2caafdde8f1cb146d841309788a114",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.34361,
     33.21944000000001
 ],
-  "geometry": {"coordinates":[35.34361,33.21944000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.34361,33.21944],"type":"Point"}
 }

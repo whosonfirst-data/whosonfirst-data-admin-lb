@@ -64,7 +64,7 @@
         "wk:page":"Ain_Harcha"
     },
     "wof:country":"LB",
-    "wof:geomhash":"d35c829fab27d88ff291c7cd880866bf",
+    "wof:geomhash":"a08c9c584ea135b07963d14b640e7929",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     35.78353,
     33.45659000000001
 ],
-  "geometry": {"coordinates":[35.78353,33.45659000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.78353,33.45659],"type":"Point"}
 }

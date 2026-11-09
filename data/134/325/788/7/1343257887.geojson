@@ -61,7 +61,7 @@
         "wk:page":"Miniara"
     },
     "wof:country":"LB",
-    "wof:geomhash":"fe6536a4d850db04c89b6b224b580fd0",
+    "wof:geomhash":"67bc92bd2d26e00d5d2298db1d8bd3e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     36.05972,
     34.53194000000001
 ],
-  "geometry": {"coordinates":[36.05972,34.53194000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.05972,34.53194],"type":"Point"}
 }

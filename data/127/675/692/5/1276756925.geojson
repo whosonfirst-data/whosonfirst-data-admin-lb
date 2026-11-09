@@ -58,7 +58,7 @@
         "wk:page":"Yarine"
     },
     "wof:country":"LB",
-    "wof:geomhash":"79d78ef446621b14cf474bcb12b17c0d",
+    "wof:geomhash":"3f5cdb6e25fa21b1adfd191ee8bf577d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     35.23305999999999,
     33.10667
 ],
-  "geometry": {"coordinates":[35.23305999999999,33.10667],"type":"Point"}
+  "geometry": {"coordinates":[35.23306,33.10667],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Daraya,_Zgharta"
     },
     "wof:country":"LB",
-    "wof:geomhash":"f55c8e6b97afd28e66c5850748e7e751",
+    "wof:geomhash":"b63e11394c581b867bcb98c2a004b15b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     35.86944000000001,
     34.32889
 ],
-  "geometry": {"coordinates":[35.86944000000001,34.32889],"type":"Point"}
+  "geometry": {"coordinates":[35.86944,34.32889],"type":"Point"}
 }

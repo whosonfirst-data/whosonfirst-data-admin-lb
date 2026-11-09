@@ -51,7 +51,7 @@
         "wk:page":"Ayta_el_Chaeb"
     },
     "wof:country":"LB",
-    "wof:geomhash":"9873e5c463b21a6d76a6713e184bf02d",
+    "wof:geomhash":"dfbd3dcd60a0a6a1ef4a20aac0415e16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     35.33669000000001,
     33.09707
 ],
-  "geometry": {"coordinates":[35.33669000000001,33.09707],"type":"Point"}
+  "geometry": {"coordinates":[35.33669,33.09707],"type":"Point"}
 }

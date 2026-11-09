@@ -53,7 +53,7 @@
         "wk:page":"Haret_Jandal"
     },
     "wof:country":"LB",
-    "wof:geomhash":"fce4a0e8fd6c5a1d9fa138ee4443ff45",
+    "wof:geomhash":"6e80e75dd867f93bee55bd50971310a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     35.60611,
     33.62889000000001
 ],
-  "geometry": {"coordinates":[35.60611,33.62889000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.60611,33.62889],"type":"Point"}
 }

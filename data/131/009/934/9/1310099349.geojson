@@ -58,7 +58,7 @@
         "wk:page":"Andaket"
     },
     "wof:country":"LB",
-    "wof:geomhash":"1bbaae4e56d32af92b3e774bb22e2975",
+    "wof:geomhash":"85c6d2f8c1ead33d7420263090f5f563",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     36.30556,
     34.58694000000001
 ],
-  "geometry": {"coordinates":[36.30556,34.58694000000001],"type":"Point"}
+  "geometry": {"coordinates":[36.30556,34.58694],"type":"Point"}
 }

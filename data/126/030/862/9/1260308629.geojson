@@ -94,7 +94,7 @@
         "wk:page":"Antelias"
     },
     "wof:country":"LB",
-    "wof:geomhash":"6f53619785f5f5d89ee4590fb981ac02",
+    "wof:geomhash":"56e3d74bc4c58e0e761df8c064a4300f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,5 +120,5 @@
     35.59305999999999,
     33.915
 ],
-  "geometry": {"coordinates":[35.59305999999999,33.915],"type":"Point"}
+  "geometry": {"coordinates":[35.59306,33.915],"type":"Point"}
 }

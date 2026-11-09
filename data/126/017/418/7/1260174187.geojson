@@ -50,7 +50,7 @@
         "wk:page":"Tayrfelsay"
     },
     "wof:country":"LB",
-    "wof:geomhash":"eeb7b46eb6e79df55988ed4a774a0cdd",
+    "wof:geomhash":"d873dd1fa76e7df4ab600ff31f0915ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     35.34861,
     33.30889000000001
 ],
-  "geometry": {"coordinates":[35.34861,33.30889000000001],"type":"Point"}
+  "geometry": {"coordinates":[35.34861,33.30889],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "wk:page":"Baraachit"
     },
     "wof:country":"LB",
-    "wof:geomhash":"d66c264bf020a4fdfaf1e4c1182dc00b",
+    "wof:geomhash":"4f5874bfba2a323da65f3fce8218402b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     35.44333,
     33.17610999999999
 ],
-  "geometry": {"coordinates":[35.44333,33.17610999999999],"type":"Point"}
+  "geometry": {"coordinates":[35.44333,33.17611],"type":"Point"}
 }

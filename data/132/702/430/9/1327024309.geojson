@@ -114,7 +114,7 @@
         "wk:page":"Amioun"
     },
     "wof:country":"LB",
-    "wof:geomhash":"d26a0b050c35fab927ea37e57e9655d2",
+    "wof:geomhash":"ea07b657e4a3181077853734c199e944",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,5 +140,5 @@
     35.80889000000001,
     34.3
 ],
-  "geometry": {"coordinates":[35.80889000000001,34.3],"type":"Point"}
+  "geometry": {"coordinates":[35.80889,34.3],"type":"Point"}
 }

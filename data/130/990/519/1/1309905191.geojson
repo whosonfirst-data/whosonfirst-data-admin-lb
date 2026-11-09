@@ -57,7 +57,7 @@
         "wk:page":"Tabarja"
     },
     "wof:country":"LB",
-    "wof:geomhash":"5cd7f58baea559b513652128a21969da",
+    "wof:geomhash":"76c56d834f6ea8ac0fc8fc55e2db12ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     35.62889000000001,
     34.03028
 ],
-  "geometry": {"coordinates":[35.62889000000001,34.03028],"type":"Point"}
+  "geometry": {"coordinates":[35.62889,34.03028],"type":"Point"}
 }

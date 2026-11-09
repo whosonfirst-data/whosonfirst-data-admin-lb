@@ -52,7 +52,7 @@
         "wk:page":"Halat,_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"adf005d1b4cb8a5f223677df821ce7fd",
+    "wof:geomhash":"c96409a9c6e1f5b52213e65fe10f513b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     35.65407000000001,
     34.08277
 ],
-  "geometry": {"coordinates":[35.65407000000001,34.08277],"type":"Point"}
+  "geometry": {"coordinates":[35.65407,34.08277],"type":"Point"}
 }

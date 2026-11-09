@@ -50,7 +50,7 @@
         "wk:page":"Khalde"
     },
     "wof:country":"LB",
-    "wof:geomhash":"e83ad1782ba072966b0ed04c19574279",
+    "wof:geomhash":"8373ea4eda871d105914ddf0773b326f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     35.48070999999999,
     33.78715
 ],
-  "geometry": {"coordinates":[35.48070999999999,33.78715],"type":"Point"}
+  "geometry": {"coordinates":[35.48071,33.78715],"type":"Point"}
 }

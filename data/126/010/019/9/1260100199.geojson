@@ -61,7 +61,7 @@
         "wk:page":"Karak_Nuh"
     },
     "wof:country":"LB",
-    "wof:geomhash":"bfd2fd800d6d2eeb6381cf8953b0db44",
+    "wof:geomhash":"fbb8a8a92a2c396fc6bb966f2595887c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,5 +87,5 @@
     35.92639000000001,
     33.85
 ],
-  "geometry": {"coordinates":[35.92639000000001,33.85],"type":"Point"}
+  "geometry": {"coordinates":[35.92639,33.85],"type":"Point"}
 }
